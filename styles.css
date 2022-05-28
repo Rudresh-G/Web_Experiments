@@ -1,0 +1,13 @@
+p {
+  margin-top: 25px;
+  color: red;
+  border-color: blue;
+  text-align: center;
+}
+
+div {
+  margin: auto;
+  padding: 20px;
+  border-style: ridge;
+  border-color: blue;
+}
